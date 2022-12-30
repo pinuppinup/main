@@ -1,11 +1,9 @@
-[1{
-"entry":"https://mediastp.com/onlinebet",
-"name":"ru"
+{"responce":[{
+"ball":"https://mediastp.com/onlinebet",
+"time":"ru, kz,"
 },
-2{"entry":"https://mediastp.com/onlinebet",
-"name":"kz"
-},
-3{"entry":"https://mediastp.com/onlinebet",
-"name":"us"
+{
+"ball":"https://mediastp.com/onlinebet",
+"time":"ru, kz,"
 }
-]
+]}
